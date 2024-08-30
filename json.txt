@@ -1,1 +1,1 @@
-{"images":[],"blogs":[{"title":"BLog2","components":[],"published":false,"id":"657eb847-8e99-4b5f-90a0-439488732463"}]}
+{"images":[],"blogs":[{"title":"BLog2","components":[{"type":"text","content":"Blogas","id":"e111c9b8-2e79-49e8-afff-9a05cc052b07","index":0},{"type":"title","content":"SecondThing","id":"5f7f89ba-7b4e-4eb8-b2c3-b9060b773b08","index":1}],"id":"657eb847-8e99-4b5f-90a0-439488732463","published":false}]}
